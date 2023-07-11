@@ -1,0 +1,164 @@
+body {
+    padding-top: 20px; 
+  }
+  .headersection{
+    background-color: cadetblue;
+    height: 700px;
+    padding: 20px 0px;
+  }
+  .footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .foot_con{
+    background-color: burlywood;
+    height: 300px;
+  }
+  .head_logo{
+    background-color: burlywood;
+    height: 50px;
+    margin: 10px;
+    flex:gap;
+  }
+  .head_logo2{
+    width: 90%;
+    background-color: burlywood;
+    height: 50px;
+  }
+  .welcome{
+    margin-top: 250px;
+    height: 150px;
+  }
+  .aboutsec{
+    background-color: cadetblue;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+  }
+  .aboutus{
+    height: 350px;
+    border-radius: 10px;
+  }
+  .f_two_box{
+    height: 300px;
+    margin: 10px 0px;
+    border-radius: 10px;
+  }
+  .sec_box{
+    padding-bottom: 50px;
+  }
+  .four_count{
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+  }
+  .ser_hed_con{
+    height: 150px;
+    margin: 10px;
+    border-radius: 6px;
+  }
+  .ser_bod_con{
+    height: 150px;
+    margin: 10px 0px;
+    border-radius: 6px;
+  }
+  .service{
+    background-color: cadetblue;
+    padding: 20px 0px;
+  }
+  .feture{
+    height: 400px;
+    align-items: center;
+  }
+  .aboutus{
+    height: 250px;
+  }
+  .portfolio{
+    background-color: cadetblue;
+    padding: 20px 0px;
+  }
+  .first_row{
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  .first_row2{
+    height: 400px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+.sec_row{
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.sec_row2{
+    height: 500px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.sec_row3{
+    height:200px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.thd_row{
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.thd_row2{
+    height: 180px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.thd_row3{
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.thd_row4{
+    height: 180px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.qus_box{
+    height: 50px;
+    margin: 10px 0px;
+}
+.qus_box2{
+    height: 70px;
+}
+.questions{
+    align-items: center;
+}
+.questionsSec{
+    background-color: cadetblue;
+}
+.team_mem{
+    height: 300px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.calltoAct{
+    height: 300px;
+    padding: 60px;
+    background-color: cadetblue;
+}
+.testmonels{
+    height: 200px;
+}
+.con_big{
+    height: 400px;
+    border-radius: 10px;
+}
+.con_small{
+    height: 180px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.Contect{
+    background-color: cadetblue;
+    padding: 20px 0px;
+}
